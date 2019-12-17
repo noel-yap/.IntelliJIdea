@@ -1,0 +1,49 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+            <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+      </component>
+      <component name="RunManager">
+        <configuration type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+          <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+        </configuration>
+        <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SHORTEN_COMMAND_LINE" value="CLASSPATH_FILE" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.44822374" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
