@@ -21,6 +21,16 @@
         <configuration type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
           <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
         </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <shortenClasspath name="MANIFEST" />
+          <option name="MAIN_CLASS_NAME" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="PARAMETERS" value="" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
         <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
           <option name="ALTERNATIVE_JRE_PATH" />
           <option name="SHORTEN_COMMAND_LINE" value="CLASSPATH_FILE" />
